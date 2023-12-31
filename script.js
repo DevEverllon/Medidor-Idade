@@ -95,7 +95,7 @@ function verificar() {
             } else if (idade < 21) {
                 img.setAttribute('src', 'imagens/jovem-mulher.jpg');
             } else if (idade < 50) {
-                img.setAttribute('src', 'imagens/adulto-mulher.jpg');
+                img.setAttribute('src', 'imagens/adulta-mulher.jpg');
             } else if (idade < 99) {
                 img.setAttribute('src', 'imagens/idosa-mulher.jpg');
             } else {
