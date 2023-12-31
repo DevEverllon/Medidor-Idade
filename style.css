@@ -66,6 +66,9 @@ img {
     border-radius: 50%;
     margin: 20px auto; /* Adicionar espaçamento superior e inferior */
 }
+p{
+    font-size: 12pt;
+}
 
 div {
     text-align: center;
